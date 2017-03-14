@@ -3,34 +3,46 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Brookesia Nasus",
+        "Text": "All species remain small and imitate leaves. A lot of species life on the ground. Brookesia-kind chameleons only occur on Madagaskar and surrounding islands."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              45.966796875,
-              -20.46818922264095
+              46.05468749999999,
+              -20.529933125170764
             ],
             [
-              43.33007812499999,
-              -21.779905342529634
+              43.154296875,
+              -21.06399706324597
             ],
             [
-              44.912109375,
-              -24.046463999666567
+              42.84667968749999,
+              -23.221154981846556
             ],
             [
-              46.142578125,
-              -24.846565348219734
+              44.31884765625,
+              -25.760319754713873
             ],
             [
-              49.130859375,
-              -22.268764039073968
+              47.197265625,
+              -25.085598897064763
             ],
             [
-              45.966796875,
-              -20.46818922264095
+              48.14208984375,
+              -22.228090416784486
+            ],
+            [
+              46.05468749999999,
+              -20.529933125170764
             ]
           ]
         ]
@@ -39,35 +51,65 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#aa0000",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Brookesia Nasus Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.41748046875,
+          -22.938159639316396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#981215",
-        "fill-opacity": 0.5
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Leafchameleon & Rieppeleon",
+        "Text": "Leafchameleon: All species remain small and look like leaves. Rhampholeon-species occur in South-Afrika, from Cameroen in the west to Tanzinia in the east. \n"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              5.537109374999999,
-              -1.4061088354351594
+              34.6728515625,
+              -1.4280747713669302
             ],
             [
-              21.708984375,
-              -1.4061088354351594
+              30.322265625000004,
+              -6.053161295714067
             ],
             [
-              21.708984375,
-              13.068776734357694
+              31.838378906249996,
+              -8.971897294083014
             ],
             [
-              5.537109374999999,
-              13.068776734357694
+              35.26611328125,
+              -11.372338792141125
             ],
             [
-              5.537109374999999,
-              -1.4061088354351594
+              40.2099609375,
+              -10.509416700845861
+            ],
+            [
+              39.52880859375,
+              -6.620957270326323
+            ],
+            [
+              37.94677734374999,
+              -3.6230713262356864
+            ],
+            [
+              34.6728515625,
+              -1.4280747713669302
             ]
           ]
         ]
@@ -79,70 +121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.013671875,
-          4.214943141390651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.380859374999998,
-            24.84656534821976
-          ],
-          [
-            11.162109375,
-            35.88905007936091
-          ],
-          [
-            17.666015625,
-            28.459033019728043
-          ],
-          [
-            -15.556640624999998,
-            24.5271348225978
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#0c0f9e",
-        "fill-opacity": 0.5
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              41.044921875,
-              22.105998799750566
-            ],
-            [
-              50.185546875,
-              22.105998799750566
-            ],
-            [
-              50.185546875,
-              28.76765910569123
-            ],
-            [
-              41.044921875,
-              28.76765910569123
-            ],
-            [
-              41.044921875,
-              22.105998799750566
-            ]
-          ]
+          35.31005859375,
+          -6.970049417296218
         ]
       }
     }
