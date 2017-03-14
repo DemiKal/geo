@@ -10,7 +10,9 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "Name": "Brookesia Nasus",
-        "Text": "All species remain small and imitate leaves. A lot of species life on the ground. Brookesia-kind chameleons only occur on Madagaskar and surrounding islands."
+        "Text": "All species remain small and imitate leaves. A lot of species life on the ground. Brookesia-kind chameleons only occur on Madagaskar and surrounding islands.",
+        "PosLat": -23.7882032,
+        "PosLng": 45.6195554
       },
       "geometry": {
         "type": "Polygon",
@@ -51,29 +53,15 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Name": "Brookesia Nasus Marker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.41748046875,
-          -22.938159639316396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
         "Name": "Leafchameleon & Rieppeleon",
-        "Text": "Leafchameleon: All species remain small and look like leaves. Rhampholeon-species occur in South-Afrika, from Cameroen in the west to Tanzinia in the east. \n"
+        "Text": "Leafchameleon: All species remain small and look like leaves. Rhampholeon-species occur in South-Afrika, from Cameroen in the west to Tanzinia in the east. ",
+        "PosLat": -7.046,
+        "PosLng": 34.739
       },
       "geometry": {
         "type": "Polygon",
@@ -112,17 +100,6 @@
               -1.4280747713669302
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.31005859375,
-          -6.970049417296218
         ]
       }
     }
