@@ -1,0 +1,60 @@
+{
+   "features":[
+      {
+         "Name":"Apenheul",
+         "coordinates":[
+            5.968322753906249,
+            52.2134971721209
+         ]
+      },
+      {
+         "Name":"Burgers' Zoo",
+         "coordinates":[
+            5.907897949218749,
+            51.9891087798712
+         ]
+      },
+      {
+         "Name":"Ouwehands Dierenpark",
+         "coordinates":[
+            5.625,
+            51.94172520314162
+         ]
+      },
+      {
+         "Name":"Dolfinarium",
+         "coordinates":[
+            5.58929443359375,
+            52.32442898129939
+         ]
+      },
+      {
+         "Name":"Zoo Bizar",
+         "coordinates":[
+            6.8115234375,
+            52.80193116968236
+         ]
+      },
+      {
+         "Name":"De Lorkeershoeve",
+         "coordinates":[
+            6.686553955078124,
+            52.63973017532399
+         ]
+      },
+      {
+         "Name":"AquaZoo",
+         "coordinates":[
+            5.955963134765625,
+            53.22001307546095
+         ]
+      },
+      {
+         "Name":"Zie-Zoo",
+         "coordinates":[
+            5.64971923828125,
+            51.64614620689681
+         ]
+      }
+   ]
+}
