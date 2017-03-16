@@ -1,57 +1,59 @@
+
 {
    "features":[
       {
-         "Name":"Apenheul",
+         "name":"Apenheul", "infoText": "Apenheul is een gespecialiseerde dierentuin aan de rand van de Nederlandse stad Apeldoorn. In Apenheul leven apen ruim 300 apen van zo'n 35 soorten uit Afrika, Zuid-Amerika en Azië. De dieren leven er heel vrij: gaas of tralies ziet men er bijna niet. Sommige soorten lopen los tussen de bezoekers rond. Andere, zoals de gorilla's, bonobo's en orang-oetans leven op grote, groene eilanden. Door de ruime verblijven en de natuurlijke groepen waarin de dieren gehouden worden, kunnen de dieren veel van hun natuurlijke gedrag laten zien.",
          "coordinates":{
             "lat":52.2134971721209,
             "lng":5.968322753906249
          }
+		 
       },
       {
-         "Name":"Burgers' Zoo",
+         "name":"Burgers' Zoo", "infoText": "Koninklijke Burgers' Zoo is de naam van een dierentuin in Arnhem, Gelderland. De dierentuin wordt ook vaak 'Burgers', 'De Bush' of 'Burgers' Bush' genoemd. Met bijna 1,5 miljoen bezoekers in 2013 [2] is de Arnhemse Zoo de meest bezochte attractie in Gelderland. Landelijk is Burgers' Zoo de op vier na best bezochte attractie in Nederland.",
          "coordinates":{
             "lat":51.9891087798712,
             "lng":5.907897949218749
          }
       },
       {
-         "Name":"Ouwehands Dierenpark",
+         "name":"Ouwehands Dierenpark", "infoText": "De oprichter van het park, Cor Ouwehand, was vanuit Rotterdam naar Rhenen gekomen om daar een sigarenfabriek te beginnen. Hij besloot daar echter mee te stoppen en begon in 1919 op de Grebbeberg een houderij van bijzondere kippenrassen. In die periode bezochten veel agrariërs deze farm, velen van hen kwamen echter niet voor de exotische kippenrassen, maar voor de andere dieren die er ook leefden zoals: wasberen, pauwen en fazanten.",  
          "coordinates":{
             "lat":51.94172520314162,
             "lng":5.625
          }
       },
       {
-         "Name":"Dolfinarium",
+         "name":"Dolfinarium", "infoText": "Een dolfinarium is een bassin voor het houden van dolfijnen. Soms worden deze zeezoogdieren gehouden in combinatie met andere dieren zoals zeeleeuwen, zeehonden, orka's en pinguïns. De dieren worden onder andere getraind om er shows mee te gegeven. In Nederland is in Harderwijk een dolfinarium gevestigd en in België één in Brugge. Van 1969 tot 1988 bestond er ook een dolfinarium in Zandvoort en van 1973 tot 1980 bestond de Dolfirodam in Scharendijke.",
          "coordinates":{
             "lat":52.32442898129939,
             "lng":5.58929443359375
          }
       },
       {
-         "Name":"Zoo Bizar",
+         "name":"Zoo Bizar", "infoText": "Zoo Bizar is een mini-zoo, creatief opgezet op de deel van een oude Saksische boerderij in museumdorp Orvelte. Het is de kleinste Zoo van Nederland en misschien zelfs van Europa! Op orginele wijze zijn er verschillende kleine (exotische) diersoorten te bewonderen.",
          "coordinates":{
             "lat":52.80193116968236,
             "lng":6.8115234375
          }
       },
       {
-         "Name":"De Lorkeershoeve",
+         "name":"De Lorkeershoeve", "infoText": "Er zijn op het park veel soorten vogels aanwezig, waaronder papegaaien, parkieten, kaketoes, roofvogels (met name uilen), vruchten- en insecteneters, kwakken, ibissen, kookaburra's, fazanten, duiven, watervogels",
          "coordinates":{
             "lat":52.63973017532399,
             "lng":6.686553955078124
          }
       },
       {
-         "Name":"AquaZoo",
+         "name":"AquaZoo", "infoText": "Aquazoo Leerdam is een opstelling van aquaria en terraria in de kelder van verpleeghuis Lingesteyn te Leerdam. Ze wordt onderhouden en beheerd door leden van Aquariumvereniging De Discus uit die stad. De vereniging heeft sinds 2003 een vergunning als dierentuin.",
          "coordinates":{
             "lat":53.22001307546095,
             "lng":5.955963134765625
          }
       },
       {
-         "Name":"Zie-Zoo",
-         "coordinates":{
+         "name":"Zie-Zoo", "infoText": " Dierenpark Zie-ZOO bestaat uit een samenwerkingsverband tussen Dierenpark Zie-ZOO BV en Stichting Zie-Zoö. Stichting Zie-Zoö heeft als taak het verzorgen van de dieren. De stichting is niet gericht op het maken van winst en werkt met vrijwilligers, donateurs en stagiares. Het werk van de stichting kan worden geholpen door adoptie van een dier of door giften. Stichting Zie-Zoö is een algemeen nut beogende instelling. Dierenpark Zie-ZOO BV zorgt voor de exploitatie van het park en de ZorgZOO. Toegangsprijzen voor bezoekers worden zo laag mogelijk gehouden.",
+		 "coordinates":{
             "lat":51.64614620689681,
             "lng":5.64971923828125
          }
